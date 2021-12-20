@@ -1,5 +1,4 @@
-![122061114-d77a2300-ce0b-11eb-9431-8b388761de79](https://user-images.githubusercontent.com/68314737/146768811-add4b6c5-ef5b-48bc-9439-9d06dd9a1e03.png)
-![Uploading 122061114-d77a2300-ce0b-11eb-9431-8b388761de79.png…]()
+
 # Software-Testing-Quality-Assurance-Techniques-Project
 
 
@@ -43,7 +42,8 @@
 
 # Login page
 ![2021-06-04 (2)](https://user-images.githubusercontent.com/85926421/122061114-d77a2300-ce0b-11eb-9431-8b388761de79.png)
-![122061114-d77a2300-ce0b-11eb-9431-8b388761de79](https://user-images.githubusercontent.com/85926421/122061114-d77a2300-ce0b-11eb-9431-8b388761de79.png)
+![122061114-d77a2300-ce0b-11eb-9431-8b388761de79](https://user-images.githubusercontent.com/68314737/146768811-add4b6c5-ef5b-48bc-9439-9d06dd9a1e03.png)
+![Uploading 122061114-d77a2300-ce0b-11eb-9431-8b388761de79.png…]()
 
 # Contact Page
 ![Screenshot (23)](https://user-images.githubusercontent.com/85926421/122061632-540d0180-ce0c-11eb-90ec-d2b00f14b804.png)
